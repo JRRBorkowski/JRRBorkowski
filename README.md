@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jakub Borkowski
 - 👀 I’m interested in JavaScript programming
-- 🌱 I’m currently learning React framework
+- 🌱 I’m currently learning Angular and React frameworks
 - 💞️ I’m looking to collaborate on big JS projects
 - 📫 How to reach me: j.borkowski.r@gmail.com
 
